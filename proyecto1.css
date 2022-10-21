@@ -1,0 +1,55 @@
+@import url("normalize.css");
+
+
+body {
+
+    background-color: blue; color: beige;
+    margin: 5px;
+    
+    }
+
+
+    
+    #header {
+    
+    background-color: greenyellow; color: red;
+    
+    }
+
+    #formfield {
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
+    }
+    
+    legend {
+    text-align: center;
+    font-size: 40px;
+    color: yellowgreen;
+    }
+    nav {
+    text-align: center;
+    background-color: rgba(207, 187, 29, 1);
+    font-size: 25px;
+    padding: 5px 10px 10px 5px;
+    }
+    
+    #principal {
+    
+    background-color: yellow; color: blueviolet;
+    
+    }
+    
+    
+    #sidenews {
+    
+    background-color: green; color: white;
+    
+    }
+
+    .question {
+    text-align: left;
+    color: gold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    }
